@@ -1,0 +1,16 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run --spec 'cypress/e2e/todolist.cy.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^15.9.0"
+  }
+}
