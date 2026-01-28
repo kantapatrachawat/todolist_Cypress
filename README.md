@@ -23,7 +23,7 @@
 
 ถ้ายังไม่มี สามารถดาวน์โหลดได้ที่ https://nodejs.org
 
-2. git clone <repository-url>
+2. git clone <https://github.com/kantapatrachawat/todolist_Cypress.git>
 cd TO-DO-LIST
 
 3. ติดตั้ง dependencies
